@@ -108,7 +108,3 @@ def printbin(size,result,n):
 n=int(input())
 printbin(0,'',n)
 
-###practise problem
-#write a python program to accept a list oof integers and print the sum of all 5 divisible numbers using recursion
-#write a python program to print all even indexed numbers in the given list using recursion function.
-
